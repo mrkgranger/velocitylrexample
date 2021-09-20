@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQYABAAAAAAAADwDwAAAAAAACwPAAAA/P/PIg8AAABMJPLCD8D8AMxEIswPL/IAwEwkwvwi8gAAzCzCLCLyAADALMIiIvIPAMAiwiJC/P8AwCLCIkT//wAvIiJM9P//AC8iIkL/L/IALyIiIvzM/PAsIiIi8sIP/0wimyLy/wDPTCKRIvIAAM9MJBEi8gAALy+0ESLyAAAvz5sZIvIAAP/Pmbki8gAA/wCcKyIPAAAAAMAiIg8AAAAAACzyAAAAAAAAwA8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Plane"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
